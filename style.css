@@ -12,6 +12,11 @@ h4 > a:hover {
 footer {
     margin-top: 200px;
 }
+/* ============================== nav ============================== */
+ul li a#current{
+    border-style: none none solid none;
+    border-color: #2cc2f1;
+}
 /* ============================== unused link styles ============================== */
 
 #links {
@@ -39,4 +44,18 @@ footer {
     margin-left: auto;
 }
 
-/* ============================== index ============================== */
+/* ============================== about ============================== */
+
+div .h1{
+    width: auto;
+    color: pink;
+
+}
+
+.content{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding-left: 2em;
+    height: auto;
+
+}
