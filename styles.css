@@ -61,3 +61,14 @@ div .h1{
     background-color: #b4d1cf;
 
 }
+
+/* ============================== project ============================== */
+.projectc{
+    margin-top: 4vh;
+    font-weight: 700;
+}
+#hi{
+    border-radius: 2em;
+    border-color: bisque;
+    font-stretch: condensed;
+}
