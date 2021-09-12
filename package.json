@@ -1,0 +1,19 @@
+{
+  "name": "a01-ayredkklc",
+  "version": "1.0.0",
+  "description": "# a01 A website for comp426 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-ayredkklc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-ayredkklc/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-ayredkklc#readme"
+}

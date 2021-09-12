@@ -1,0 +1,42 @@
+/* ============================== footer links, padding ============================== */
+h4 > a {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #56c6aa;
+}
+
+h4 > a:hover {
+    color: #2cc2f1;
+}
+
+footer {
+    margin-top: 200px;
+}
+/* ============================== unused link styles ============================== */
+
+#links {
+    font-size: 15px;
+    font-weight: 10;
+    margin-top: 0px;
+    color: #b4d1cf;
+}
+
+/* ============================== links ============================== */
+
+#desc > a {
+    color: #56c6aa;
+    margin-top: 0px;
+}
+
+#desc > a:hover {
+    color: #2cc2f1;
+    font-size: 120%;
+}
+/* ============================== container ============================== */
+
+.container {
+    margin-top: 50px;
+    margin-left: auto;
+}
+
+/* ============================== index ============================== */
